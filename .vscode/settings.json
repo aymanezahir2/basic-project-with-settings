@@ -1,2 +1,45 @@
 {
-}
+    "workbench.iconTheme": "material-icon-theme",
+    "git.autofetch": true,
+    "githubIssues.queries": [
+      {
+        "label": "My Issues",
+        "query": "default"
+      },
+      {
+        "label": "Created Issues",
+        "query": "author:${user} state:open repo:${owner}/${repository} sort:created-desc"
+      },
+      {
+        "label": "Recent Issues",
+        "query": "state:open repo:${owner}/${repository} sort:updated-desc"
+      }
+    ],
+    "git.enableSmartCommit": true,
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontFamily": "'JetBrains Mono', monospace",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.minimap.size": "fit",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "workbench.editor.pinnedTabSizing": "compact",
+    "background.editorBackgrounds": [],
+    "background.backgroundAlignment": [
+      "Center Center",
+      "Center Center",
+      "Center Center",
+      "Center Center"
+    ],
+    "background.windowBackgrounds": [
+      "c:/Users/acer/Desktop/background/wallpaper-TechnoTour (1).jpg"
+    ],
+    "background.backgroundOpacity": [0.9, 0.9, 0.9, 0.9]
+  }
+  
