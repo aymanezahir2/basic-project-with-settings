@@ -14,4 +14,4 @@ This is a simple web template featuring HTML, CSS, JavaScript, Bootstrap, and Fo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aymanezahir2
+   git clone https://github.com/aymanezzahir/bootsrap_boalerpate.git
